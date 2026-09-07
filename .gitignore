@@ -1,0 +1,19 @@
+# Build output
+.alpackages/
+.alcache/
+*.app
+
+# VS Code local settings
+.vscode/launch.json
+
+# Environment-specific
+.env
+*.bak
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Auto-generated translations
+*.g.xlf
